@@ -23,6 +23,12 @@
             "title": "Dart, o Caçador de Andróides",
             "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
             "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        },
+        {
+            "id": 5,
+            "title": "Vingadores",
+            "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/FWatWhfuCxs&ab"
         }
     ]
 }
