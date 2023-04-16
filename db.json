@@ -27,13 +27,13 @@
         {
             "id": 5,
             "title": "Vingadores",
-            "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+            "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
             "link": "https://www.youtube.com/embed/FWatWhfuCxs"
         },
         {
             "id": 6,
             "title": "Coraline",
-            "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+            "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
             "link": "https://www.youtube.com/embed/m9bOpeuvNwY"
         }
     ]
