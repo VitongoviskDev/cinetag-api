@@ -29,12 +29,12 @@
             "title": "Vingadores",
             "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
             "link": "https://www.youtube.com/embed/FWatWhfuCxs"
-        }
+        },
         {
-            "id" : 6,
+            "id": 6,
             "title": "Coraline",
             "thumbnail": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link":"https://www.youtube.com/embed/m9bOpeuvNwY"
+            "link": "https://www.youtube.com/embed/m9bOpeuvNwY"
         }
     ]
 }
